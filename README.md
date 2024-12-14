@@ -1,1 +1,1 @@
-# human-position-classifier-neural-networks
+# Human Activity Recognition
